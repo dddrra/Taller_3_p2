@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1Zizsc8NRCbqK6UUi17kORSZm4PFYHLb2
 """
 
-!pip install optuna
-!pip install mlflow
+# !pip install optuna
+# !pip install mlflow
 import mlflow
 import mlflow.sklearn
 import optuna
