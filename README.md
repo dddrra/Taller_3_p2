@@ -6,5 +6,5 @@ Entrar a la carpeta: cd Taller_3_p2
 Crear entorno virtual: python3 -m venv taller3Venv
 activar el venv: source taller3Venv/bin/activate
 Instalar dependencias: pip install -r requirements.txt
-Correr: python MLFlow_Optuna_Taller3_p2.py
+Correr: python mlflow_optuna_taller3_p2.py
 Para visualizar los resultados ejecutar: taller3Venv ui
