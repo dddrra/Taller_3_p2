@@ -7,4 +7,6 @@ Crear entorno virtual: python3 -m venv taller3Venv
 activar el venv: source taller3Venv/bin/activate
 Instalar dependencias: pip install -r requirements.txt
 Correr: python mlflow_optuna_taller3_p2.py
+en EC2 Crear o editar regla de entrada en grupos de seguridad en tcp, intervalo puertos 5000
+En EC2 ir a buscar la url pública, acceder, quitar la 2 de https y al final poner:5000
 Para visualizar los resultados ejecutar: taller3Venv ui
